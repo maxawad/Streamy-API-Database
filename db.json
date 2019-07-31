@@ -1,0 +1,15 @@
+{
+  "streams": [
+    {
+      "title": "Test stream with no owner",
+      "description": "Ghosts",
+      "id": 1
+    },
+    {
+      "title": "Did something",
+      "description": "Fail??",
+      "userId": "105098007778412528671",
+      "id": 2
+    }
+  ]
+}
